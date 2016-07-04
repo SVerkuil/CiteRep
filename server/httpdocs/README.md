@@ -1,0 +1,1 @@
+Please point your webserver to this directory for the root domainname

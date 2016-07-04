@@ -1,0 +1,325 @@
+abstr	abstracts
+acad	academiae	academy
+account	accounting
+actual	actualites
+adm	administration
+adv	advanced	advances
+aff	affairs
+afr	africa	african
+agr	agricultural	agric
+akad	akademii
+ala	alabama
+am	america	american	amer
+anal	analysis	analytical
+angew	angewandte
+anim	animal
+ann	annales
+annot	annotated
+annu	annual
+anthropol	anthropology
+appl	applications	applied
+aquat	aquatic
+arch	archiv	archives
+archaeol	archaeology
+artif	artificial
+assess	assessment
+assoc	association
+atl	atlantic
+aust	australian
+australas	australasian
+b	bull	bulletin
+behav	behavior	behavioral
+belg	belgica
+ber	berichte
+bibl	bibliotheca
+biochem	biochemical	biochemistry
+biol	biological	biology
+biomed	biomedical
+biotechnol	biotechnology
+bot	botanica	botanical	botany
+bras	brasileira
+br	brit	british
+bus	business
+cah	cahiers
+calif	california
+can	canadian
+cardiol	cardiology
+cardiovasc	cardiovascular
+cas	casopis
+catal	catalysis
+cathol	catholic
+cent	center	central
+cesk	ceskoslovenska
+chem	chemical	chemistry
+chim	chimica
+chin	chinese
+chir	chirurgica
+clim	climate
+clin	clinic	clinica	clinical	clinics
+cogn	cognitive
+coll	college
+comm	commission	commun	communication	communications	community	community
+comp	comparative	comput	computational	computer	computing
+conf	conference
+conserv	conservation
+contemp	contemporary
+contr	control
+crim	criminal
+crit	critical
+croat	croatica
+cty	county
+cult	cultural
+curr	current
+dent	dental	dentistry
+derg	dergisi
+dermatol	dermatology
+des	design
+dev	development	developmental
+dig	digest
+dis	disease	diseases
+discov	discovery
+disord	disorders
+dokl	doklady
+dtsch	deutsche
+dyn	dynamics
+east	eastern
+ecol	ecological	ecology
+econ	economic	economics
+educ	education	educational
+electron	electronic	electronics
+electroanal	electroanalytical
+emerg	emergency
+endocr	endocrine
+endocrinol	endocrinology
+energ	energy
+eng	engineer	engineering
+engl	english
+entomol	entomologica	entomological	entomologische	entomologist
+environ	environment	environmental
+estud	estudios
+ethics	ethics
+etud	etudes
+eur	europe	european
+evol	evolutionary
+exp	experiment	experimental
+fail	failure
+fam	family
+field	field
+financ	finance
+fish	fisheries
+fiz	fizika
+fla	florida
+folia	folia
+forest	forestry
+forsch	forschung
+forum	forum
+found	foundation
+fr	francaise	french
+fur	fuer
+gastroenterol	gastroenterology
+gaz	gazette
+gen	general
+genet	genetic	genetics
+geogr	geographical	geographische	geography
+geol	geologica	geology
+geophys	geophysical
+ger	german
+glob	global
+harv	harvard
+healthc	healthcare
+helv	helvetica
+hist	historia	historical	history
+hosp	hospital
+hum	human
+hung	hungarica	hungaricae
+ill	illinois
+immunol	immunology
+ind	industrial	industry
+infect	infectious
+inf	inform	informatics	information
+inorg	inorganic
+inq	inquiry
+inst	institute
+int	international
+intell	intelligence
+interdiscip	interdisciplinary
+ital	italiana	italiano
+izv	izvestiya
+j	journal
+jahrb	jahrbuch
+jew	jewish
+jpn	japan	japanese	japonica
+khim	khimii	khimiya
+ky	kentucky
+lab	laboratory
+lang	language
+lat	latin
+leg	legal
+lett	letter	letters
+lib	libr	library
+lightw	lightwave
+linguist	linguistics
+lit	literature
+mach	machine
+mag	magazine
+magn	magnetic
+magy	magyar
+manag	management	manage
+mar	marine
+mater	materials
+math	mathematica	mathematicae	mathematical	mathematics
+md	maryland
+mech	mechanics
+med	medecine	medica	medical	medicale	medicina	medicine	medico	medizinische
+ment	mental
+met	metal	metals
+mich	michigan
+microbiol	microbiology
+minerva	minerva
+minn	minnesota
+mitt	mitteilungen
+mod	modern
+mol	molecular
+mon	monthly
+monogr	monograph	monographs
+mus	museum
+n	new	north
+nat	natural	naturalist
+natl	national
+nav	naval
+nephrol	nephrology
+neth	netherlands
+netw	network
+neurol	neurology
+neurosci	neuroscience
+neurosurg	neurosurgery
+newsl	newsletter
+nouv	nouvelle
+nucl	nuclear
+nurs	nursing
+nutr	nutrition
+obes	obesity
+occup	occupational
+odontol	odontologia	odontologica
+okla	oklahoma
+oncol	oncology
+ophthalmol	ophthalmology
+opt	optical
+org	organic
+organ	organization
+osterr	osterreichische
+pa	pennsylvania
+pac	pacific
+paediatr	paediatrica
+pap	paper	papers
+pathol	pathology
+pediat	pediatric	pediatr	pediatric	pediatrics
+perspect	perspectives
+pharm	pharmaceutica	pharmaceutical	pharmacy
+pharmacol	pharmacology
+phil	philos	philosophical	philosophy
+photon	photonics
+phys	physica	physical	physics
+physiol	physiological	physiology
+plan	planning	plann
+pol	polish	polonica	polska	polski
+polit	political	politics
+polym	polymer
+popul	population
+pract	practice
+prax	praxis
+prev	prevention
+prim	primary
+probl	problemy
+proc	proceedings	process	processing	processes
+prod	product
+prof	professional
+prog	progress
+propag	propagat	propagation
+prot	protection
+psychiat	psychiatry
+psychiatr	psychiatric
+psychol	psychological	psychologist	psychology
+publ	publication	publications
+q	quarterly	quart
+quant	quantum
+qual	quality
+r	rep	report	reporter	reports
+radiat	radiation
+radiol	radiologica	radiology
+rec	record
+recognit	recognition
+reg	regional
+rehabil	rehabilitation
+relat	relations
+reprod	reproduction	reproductive
+res	research
+resour	resource	resources
+respir	respiratory
+retroviruses	retrov	retrovir	retrovirus
+rev	review	reviews	revista	revue
+rheumatol	rheumatology
+rights	rights
+riv	rivista
+rundsch	rundschau
+russ	russian
+s	series	south	states	southern
+saf	safety
+scand	scandinavica
+sch	school
+schweiz	schweizerische
+sc	sci	science	sciences	scientia	scientiarum	scientific
+scr	scripta
+sect	section
+secur	security
+sens	sensors
+ser	seriya
+serv	service	services
+sin	sinica
+soc	social	society
+sociol	sociological	sociology
+southwest	southwestern
+sov	soviet
+spec	special
+spectrosc	spectroscopy
+st	studies	studia	studien	stud
+stat	statistical	statistics
+stem	stem
+stn	station
+stoch	stochastic
+struct	structural
+suppl	supplement	supplementum
+surf	surface
+surg	surgery	surgical
+surv	survey
+symp	symposia	symposium
+syst	system	systems
+teach	teacher
+tech	technical	techniques	technology	technol	technology
+tex	texas
+theor	theoretical	theory
+ther	therapeutic	therapeutics	therapy
+tidskr	tidskrift
+tierarztl	tierarztliche
+toxicol	toxicology
+trans	transactions
+transl	translational
+transplant	transplantation
+transport	transportation
+treat	treatment
+trop	tropical
+u	united	university	universitatis
+urol	urology
+vestn	vestnik
+vet	veterinaria	veterinary
+vis	visual	vision
+vopr	voprosy
+water	water
+west	western
+wildl	wildlife
+wkly	weekly
+wochenschr	wochenschrift
+y	york
+z	zealand	zeitschrift
+zh	zhurnal
+zool	zoologica	zoologische	zoology

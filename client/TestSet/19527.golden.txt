@@ -1,0 +1,10 @@
+Proceedings of ECOOP
+IEEE Transactions on Software Engineering
+IEEE Software
+Communications of the ACM
+Journal of Object Technology
+International Conference on Software Engineering and Knowledge Engineering
+ECOOP 2003 Workshop on Analysis of Aspect-Oriented Software
+IEEE Joint Conference on Requirements Engineering
+XVII Brazilian Symposium on Software Engineering
+Proceedings of the 3rd Aspect-Oriented Programming (AOP) Workshop at ECOOP'99

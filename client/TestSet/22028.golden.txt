@@ -1,0 +1,11 @@
+Int. Workshop on Testing of Communicating Systems
+Model-Based Testing of Reactive Systems
+Technical Report
+FATES’04
+Technical Report
+ICALP83
+Combinatorica
+Software-Concepts and Tools
+First European Conference on Model-Driven Software Engineering
+Computer Communications Journal
+J. Compositional testing with ioco
